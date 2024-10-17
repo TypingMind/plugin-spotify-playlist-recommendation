@@ -1,6 +1,6 @@
-# Spotify Playlist Recommendation
+# Spotify Song Suggestions
 
-This plugin recommends a Spotify playlist based on user descriptions using the **Spotify Web API**.
+This plugin suggests a Spotify playlist based on user descriptions using the **Spotify Web API**.
 
 ## Playlist Personalization  
 - Use Spotify’s **recommendation endpoint** to generate tailored playlists.
